@@ -388,7 +388,7 @@ def main():
     """
     
     # Header
-    st.markdown('<h1 class="main-header">Analyseur de Sentiments Amazon France</h1>', 
+    st.markdown('<h1 class="main-header">Analyseur de commentaire Amazon</h1>', 
                 unsafe_allow_html=True)
     
     st.markdown("""
