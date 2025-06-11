@@ -1,0 +1,14 @@
+{
+  "model_name": "SVM",
+  "f1_score": 0.8382739529183043,
+  "accuracy": 0.8581818181818182,
+  "train_size": 2197,
+  "test_size": 550,
+  "features_count": 5000,
+  "classes": [
+    "negatif",
+    "positive",
+    "neutre"
+  ],
+  "timestamp": "20250611_002538"
+}
