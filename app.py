@@ -393,7 +393,7 @@ def main():
     
     st.markdown("""
     <div style="text-align: center; margin-bottom: 2rem; color: #666;">
-        Analysez le sentiment de vos commentaires clients Amazon avec notre IA spécialisée
+        Analysez le sentiment de vos commentaires clients Amazon avec notre outil
     </div>
     """, unsafe_allow_html=True)
     
